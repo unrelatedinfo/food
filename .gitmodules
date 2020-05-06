@@ -4,3 +4,6 @@
 [submodule "themes/autophugo"]
 	path = themes/autophugo
 	url = https://github.com/kc0bfv/autophugo.git
+[submodule "docs/themes/autophugo"]
+	path = docs/themes/autophugo
+	url = https://github.com/kc0bfv/autophugo.git
