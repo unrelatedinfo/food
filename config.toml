@@ -4,3 +4,6 @@ title = "Food Stuffs"
 theme = "autophugo"
 
 publishDir = "docs"
+
+[imaging]
+quality = 100
