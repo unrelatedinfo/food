@@ -13,7 +13,7 @@ draft: false
 Korean inspired hot and spicy bbq'd chicken
 
 <!--more-->
-
+![Steak Sauce](/img/chicken_01.jpg)
 **Ingredients:**
 
 * 1 whole chicken
