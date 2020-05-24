@@ -11,7 +11,7 @@ publishDir = "docs"
 
   author = "Kris"
   description = "All things consumable"
-  avatar = "/img/avatar.png"
+  avatar = "/img/avatar_both.png"
   motto = "What's cooking?"
 
   email = "kris@unrelated.info"
