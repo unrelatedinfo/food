@@ -12,21 +12,21 @@
     
     
     <item>
-      <title>Test1</title>
-      <link>https://food.unrelated.info/posts/test1/</link>
+      <title>Kris&#39; Stout Steak Sauce</title>
+      <link>https://food.unrelated.info/posts/steak_sauce/</link>
       <pubDate>Sun, 24 May 2020 16:15:45 +0000</pubDate>
       
-      <guid>https://food.unrelated.info/posts/test1/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <guid>https://food.unrelated.info/posts/steak_sauce/</guid>
+      <description>&lt;p&gt;Kris&amp;rsquo; Stout Steak Sauce&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://food.unrelated.info/posts/test/</link>
+      <title>Spicy BBQ&#39;d chicken</title>
+      <link>https://food.unrelated.info/posts/spicy_chicken/</link>
       <pubDate>Sun, 24 May 2020 16:08:31 +0000</pubDate>
       
-      <guid>https://food.unrelated.info/posts/test/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <guid>https://food.unrelated.info/posts/spicy_chicken/</guid>
+      <description>&lt;p&gt;Korean inspired hot and spicy bbq&amp;rsquo;d chicken&lt;/p&gt;</description>
     </item>
     
   </channel>
