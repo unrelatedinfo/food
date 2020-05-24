@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on All things consumable</title>
+    <link>https://food.unrelated.info/tags/</link>
+    <description>Recent content in Tags on All things consumable</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 May 2020 16:15:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://food.unrelated.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BBQ</title>
+      <link>https://food.unrelated.info/tags/bbq/</link>
+      <pubDate>Sun, 24 May 2020 16:15:45 +0000</pubDate>
+      
+      <guid>https://food.unrelated.info/tags/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hot</title>
+      <link>https://food.unrelated.info/tags/hot/</link>
+      <pubDate>Sun, 24 May 2020 16:15:45 +0000</pubDate>
+      
+      <guid>https://food.unrelated.info/tags/hot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baking</title>
+      <link>https://food.unrelated.info/tags/baking/</link>
+      <pubDate>Sun, 24 May 2020 16:08:31 +0000</pubDate>
+      
+      <guid>https://food.unrelated.info/tags/baking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flour</title>
+      <link>https://food.unrelated.info/tags/flour/</link>
+      <pubDate>Sun, 24 May 2020 16:08:31 +0000</pubDate>
+      
+      <guid>https://food.unrelated.info/tags/flour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yeast</title>
+      <link>https://food.unrelated.info/tags/yeast/</link>
+      <pubDate>Sun, 24 May 2020 16:08:31 +0000</pubDate>
+      
+      <guid>https://food.unrelated.info/tags/yeast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

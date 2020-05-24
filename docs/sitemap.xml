@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://food.unrelated.info/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/bbq/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/categories/bbq/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/categories/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/hot/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/posts/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/posts/test1/</loc>
+    <lastmod>2020-05-24T16:15:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/categories/baking/</loc>
+    <lastmod>2020-05-24T16:08:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/baking/</loc>
+    <lastmod>2020-05-24T16:08:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/flour/</loc>
+    <lastmod>2020-05-24T16:08:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/posts/test/</loc>
+    <lastmod>2020-05-24T16:08:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://food.unrelated.info/tags/yeast/</loc>
+    <lastmod>2020-05-24T16:08:31+00:00</lastmod>
+  </url>
+  
+</urlset>

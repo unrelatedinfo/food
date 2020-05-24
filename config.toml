@@ -1,0 +1,27 @@
+baseURL = "https://food.unrelated.info/"
+languageCode = "en-us"
+title = "All things consumable"
+
+theme = "dream"
+publishDir = "docs"
+[params]
+  background = "black"
+  # backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Kris"
+  description = "All things consumable"
+  avatar = "/img/avatar.png"
+  motto = "What's cooking?"
+
+  email = "kris@unrelated.info"
+  twitter = "unrelatedinfo"
+
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404Button = true
