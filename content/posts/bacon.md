@@ -17,12 +17,15 @@ My bacon's journey
 This is the journey of my bacon.
 
 It all starts at the local butcher:
+
 ![Watkins Butcher](/bacon/Butcher_01.jpg)
 
 It can be a bit hit and miss with the size of the pork belly they have in stock, this time however it was stellar pork.
+
 ![Pork Belly](/bacon/pork_belly01.jpg)
 
 When I get home, it's time to remove the skin:
+
 ![Remove Skin](/bacon/Remove_skin01.jpg)
 ![Skin Removed](/bacon/skin_removed01.jpg)
 
@@ -33,6 +36,7 @@ Once the skin has been removed (don't throw it out, chicharones can be made), we
 * Add crushed pepper until you get your desired amount.
 
 Stir it well to make sure there is a equal distribution of mix.
+
 ![Spices](/bacon/Bacon_spice01.jpg)
 ![Spices Mixed](/bacon/bacon_spice02.jpg)
 
@@ -45,6 +49,7 @@ Then coat both sides liberally with the mix to ensure that every part of the por
 ![Ready for vacuum](/bacon/vacuum03.jpg)
 
 The result should be looking something like the picture below:
+
 ![Ready for the curing](/bacon/ready_7days01.jpg)
 
 Now comes the part where you need to daily flip the bag over to ensure that the brine penetrates properly.
